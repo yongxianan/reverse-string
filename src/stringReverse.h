@@ -1,5 +1,6 @@
 #ifndef _STRINGREVERSE_H
 #define _STRINGREVERSE_H
 
-int reverseString(char *str);
+int FindStrLength (char *str);
+char *reverseString(char *str);
 #endif // _STRINGREVERSE_H
